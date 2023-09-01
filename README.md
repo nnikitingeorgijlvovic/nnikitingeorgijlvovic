@@ -2,7 +2,7 @@
 - 👀 I’m interested in python script
 - 🌱 I’m currently learning testnet crypt
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me nnikitingeorgijlvovic@gmail.com
 
 <!---
 nnikitingeorgijlvovic/nnikitingeorgijlvovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
