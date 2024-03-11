@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on fastai-v5.
 - 📫 How to reach me nnikitingeorgijlvovic@gmail.com
 - Guthub one love.
-- Discord mossias.......1234567891011112131415161718192021222324252627282930
+- Discord mossias.......123456789101111213141516171819202122232425262728293031
 #
 %
 @
